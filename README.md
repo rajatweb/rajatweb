@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatweb" alt="rajatweb" /></a> </p>
 
-- 🔭 I’m currently working on **Shopify Dashboard**
+- 🔭 I’m currently working on **NextJs / ReactJs / ShadcnUi / Shopify API**
 
 - 🌱 I’m currently learning **Flutter**
 
