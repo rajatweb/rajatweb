@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - NextJs / ReactJs / NodeJs / MongoDB / Postgres ? ShadcnUi / Shopify APP / Theme<br>👯 I’m looking to collaborate on - NextJs Projects<br>🤝 I’m looking for help with - Flutter App<br>🌱 I’m currently learning - Flutter<br>💬 Ask me about - App Development<br>
+🔭 I’m currently working on - NextJs / ReactJs / NodeJs / MongoDB / Postgres / ShadcnUi / Shopify APP / Theme<br>👯 I’m looking to collaborate on - NextJs Projects<br>🤝 I’m looking for help with - Flutter App<br>🌱 I’m currently learning - Flutter<br>💬 Ask me about - App Development<br>
 
 
 ## 🌐 Socials:
